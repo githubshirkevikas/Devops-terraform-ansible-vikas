@@ -1,3 +1,4 @@
+```
 -- fork the github repository :
     
     https://github.com/ramannkhanna2/Devops-terraform-ansible.git
@@ -122,3 +123,4 @@ ansible-playbook -i /tmp/inv -u ec2-user -b --become-method sudo web.yaml
 
 
 ======================================================================================
+```

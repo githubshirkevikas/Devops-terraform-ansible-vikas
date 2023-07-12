@@ -13,7 +13,7 @@ region = "us-east-1"
 resource "aws_instance" "myawsserver" {
   ami = "ami-0b0dcb5067f052a63"
   instance_type = "t2.micro"
-  key_name = "raman-import"
+  key_name = "vikas-import"
 
   tags = {
     Name = "Vikas-DevOps-batch-server"
